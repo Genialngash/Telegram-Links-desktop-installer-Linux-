@@ -12,7 +12,7 @@ Open the terminal on the file folder(or change directory to inside the telegram 
 type this command to make it executable  \
 sudo chmod +x Telegram_Links-x86_64.AppImage 
 
-# ALTERNATIVE 
+# ALTERNATIVELY 
 
 [Telegram links bundle.zip](https://github.com/Genialngash/Telegram-Links-desktop-installer-Linux-/files/7605090/Telegram.links.bundle.zip)
 
