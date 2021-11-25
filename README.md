@@ -21,8 +21,8 @@ Open the terminal on the file folder(or change directory to inside the telegram 
 Open terminal and type \
 sudo +x telegram_links \
 then \
-sudo ./telegram_links \
+sudo ./telegram_links 
 
-# Android version available at \
+# Android version available at 
 https://play.google.com/store/apps/details?id=com.telegramlinks
 
