@@ -1,5 +1,5 @@
 # Telegram-Links-desktop-installer-Linux-
-![icon](https://user-images.githubusercontent.com/45265245/143496281-3243e64c-3f06-4d78-aae3-f8f600a0d866.png =230x230)
+![icon](https://user-images.githubusercontent.com/45265245/143496281-3243e64c-3f06-4d78-aae3-f8f600a0d866.png=230x230)
 
 
 Installation packages  (LINUX AND ANDROID) for telegram links application 
